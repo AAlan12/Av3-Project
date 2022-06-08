@@ -1,0 +1,66 @@
+[
+  {
+    "id": 0,
+    "name": "Hong Kong",
+    "picture": "images/HongKong.jpeg",
+    "guide": 3,
+    "country": "Scottish Terrier",
+    "partnerCompany": "Hong Kong"
+  },
+  {
+    "id": 1,
+    "name": "Bangkok",
+    "picture": "images/Bangkok.jpeg",
+    "guide": 3,
+    "country": "Scottish Terrier",
+    "partnerCompany": "Tooleville, West Virginia"
+  },
+  {
+    "id": 2,
+    "name": "Londres",
+    "picture": "images/Londres.jpeg",
+    "guide": 2,
+    "country": "French Bulldog",
+    "partnerCompany": "Inglaterra"
+  },
+  {
+    "id": 3,
+    "name": "Singapura",
+    "picture": "images/Singapura.jpeg",
+    "guide": 2,
+    "country": "Boxer",
+    "partnerCompany": "Camas, Pennsylvania"
+  },
+  {
+    "id": 4,
+    "name": "Macau",
+    "picture": "images/Macau.jpeg",
+    "guide": 2,
+    "country": "French Bulldog",
+    "partnerCompany": "Gerber, South Dakota"
+  },
+  {
+    "id": 5,
+    "name": "Paris",
+    "picture": "images/Paris2.jpeg",
+    "guide": 3,
+    "country": "French Bulldog",
+    "partnerCompany": "Innsbrook, Illinois"
+  },
+  {
+    "id": 6,
+    "name": "Dubai",
+    "picture": "images/Dubai.jpeg",
+    "guide": 3,
+    "country": "Golden Retriever",
+    "partnerCompany": "Soudan, Louisiana"
+  },
+  {
+    "id": 7,
+    "name": "New York",
+    "picture": "images/New-York.jpeg",
+    "guide": 3,
+    "country": "Golden Retriever",
+    "partnerCompany": "Jacksonwald, Palau"
+  }
+]
