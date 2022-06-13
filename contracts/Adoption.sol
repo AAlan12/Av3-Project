@@ -14,7 +14,7 @@ function adopt(uint petId) public returns (uint) {
 }
 
 // Retrieving the adopters
-function getAdopters() public view returns (address[11] memory) {
+function getAdopters() public view returns (address[8] memory) {
   return adopters;
 }
 
