@@ -3,64 +3,64 @@
     "id": 0,
     "name": "Hong Kong",
     "picture": "images/HongKong.jpeg",
-    "guide": 3,
-    "country": "Scottish Terrier",
-    "partnerCompany": "Hong Kong"
+    "guide": "Xin Zhao",
+    "country": "China",
+    "partnerCompany": "G Adventures"
   },
   {
     "id": 1,
     "name": "Bangkok",
     "picture": "images/Bangkok.jpeg",
-    "guide": 3,
-    "country": "Scottish Terrier",
-    "partnerCompany": "Tooleville, West Virginia"
+    "guide": "Lee Shin",
+    "country": "Tailândia",
+    "partnerCompany": "Intrepid"
   },
   {
     "id": 2,
     "name": "Londres",
     "picture": "images/Londres.jpeg",
-    "guide": 2,
-    "country": "French Bulldog",
-    "partnerCompany": "Inglaterra"
+    "guide": "Artoria Pendragon",
+    "country": "Inglaterra",
+    "partnerCompany": "Contiki"
   },
   {
     "id": 3,
     "name": "Singapura",
     "picture": "images/Singapura.jpeg",
-    "guide": 2,
-    "country": "Boxer",
-    "partnerCompany": "Camas, Pennsylvania"
+    "guide": "Akali Lanling",
+    "country": "Malásia",
+    "partnerCompany": "Contiki"
   },
   {
     "id": 4,
     "name": "Macau",
     "picture": "images/Macau.jpeg",
-    "guide": 2,
-    "country": "French Bulldog",
-    "partnerCompany": "Gerber, South Dakota"
+    "guide": "Shen Hang",
+    "country": "China",
+    "partnerCompany": "G Adventures"
   },
   {
     "id": 5,
     "name": "Paris",
     "picture": "images/Paris2.jpeg",
-    "guide": 3,
-    "country": "French Bulldog",
-    "partnerCompany": "Innsbrook, Illinois"
+    "guide": "Jeanne d'Arc",
+    "country": "França",
+    "partnerCompany": "Intrepid"
   },
   {
     "id": 6,
     "name": "Dubai",
     "picture": "images/Dubai.jpeg",
-    "guide": 3,
-    "country": "Golden Retriever",
-    "partnerCompany": "Soudan, Louisiana"
+    "guide": "Zhuge Liang",
+    "country": "Emirados Árabes Unidos",
+    "partnerCompany": "G Adventures"
   },
   {
     "id": 7,
     "name": "New York",
     "picture": "images/New-York.jpeg",
-    "guide": 3,
-    "country": "Golden Retriever",
-    "partnerCompany": "Jacksonwald, Palau"
+    "guide": "Mary Anning",
+    "country": "Estados Unidos",
+    "partnerCompany": "CVC"
   }
 ]
