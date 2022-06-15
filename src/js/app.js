@@ -14,6 +14,7 @@ App = {
         TravelTemplate.find('.TravelPackages-Guide').text(data[i].guide);
         TravelTemplate.find('.TravelPackages-Country').text(data[i].country);
         TravelTemplate.find('.TravelPackages-location').text(data[i].partnerCompany);
+        TravelTemplate.find('.TravelPackages-Value').text(data[i].value);
         TravelTemplate.find('.btn-Purchase').attr('data-id', data[i].id);
 
         TravelRow.append(TravelTemplate.html());

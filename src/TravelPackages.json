@@ -5,7 +5,8 @@
     "picture": "images/HongKong.jpeg",
     "guide": "Xin Zhao",
     "country": "China",
-    "partnerCompany": "G Adventures"
+    "partnerCompany": "G Adventures",
+    "value": 1500
   },
   {
     "id": 1,
@@ -13,7 +14,8 @@
     "picture": "images/Bangkok.jpeg",
     "guide": "Lee Shin",
     "country": "Tailândia",
-    "partnerCompany": "Intrepid"
+    "partnerCompany": "Intrepid",
+    "value": 45000
   },
   {
     "id": 2,
